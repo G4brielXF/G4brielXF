@@ -25,7 +25,7 @@ Neste momento estou a procura de desenvolver mais habilidades como DEV e ampliar
   ##
 
  <div>
-    <a href = "mailto:xavierfreitasgabriel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href = "mailto:xavierdefreitasgabriel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://discord.com/channels/@G4bzuk1" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
      
