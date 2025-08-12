@@ -1,12 +1,14 @@
-## Hi there! Prazer ...
-  Me chamo Gabriel Xavier, tenho 19 anos e sou do Rio de Janeiro. Sou estudante de Ciências da Computação na Estácio. Sou um profissional autodidata e procuro me aprimorar nas linguagens de programação a fim de contribuir com êficiencia cada projeto proposto gerando satsifação para meus clientes e líderes.<br>
- Desde pequeno meu pai me ensinou o básico relacionado à informatica, por conta disso, sempre estive fascinado por esta área. Já desenvolvi pequenos trabalhos propostos pela universidade utilizando linguagem C e HTML, e estou estudando mais linguagens para ampliar meu conhecimento, como o PYTHON , JAVA SCRIPT e PHP.<br>
-  Neste momento estou a procura de desenvolver mais habilidades como DEV e ampliar meus conhecimentos, adiquirindo cada vez mais pela experiência trabalhando como Desenvolvedor. 
+## Olá! Prazer ...
+  Me chamo Gabriel Xavier, tenho 19 anos. Sou estudante de Ciências da Computação na Estácio e Desenvolvedor front-end freelancer.<br>
+  <br>
+ Já desenvolvi pequenos trabalhos propostos pela universidade como um <strong>sistema de cadrastro das principais informações e de comparação </strong> entre estados do Brasil utilizando linguagem C e <strong>sites simples para cadastro de pessoas </strong> em HTML.<br>
+  <br>
+Neste momento estou a procura de desenvolver mais habilidades como DEV e ampliar meus conhecimentos na área. Vamos conversar?
 
 ##
 
 - 📖 Atualmente estou estudando HTML, CSS, JS, PHP e PYTHON em minha faculdade
-- 👯 Procuro colaborar com projetos Front-end
+- 👯 Procuro colaborar com criações de sites e landing pages 
 - 🪧 Procuro por ajuda para adiquirir experiência para meu começo
 - 😄 Pronomes: ele/dele
 
