@@ -1,4 +1,7 @@
 ## Hi there! Prazer ...
+Me chamo Gabriel Xavier, tenho 19 anos e sou do Rio de Janeiro. Concluí meu Ensino Médio com técnico em Empreendedorismo e atualmente estou cursando Ciência da Computação na Estácio. Desde pequeno meu pai me ensinou o básico relacionado à informatica, por conta disso, sempre estive fascinado por esta área. Neste momento estou a procura de desenvolver mais habilidades como DEV e ampliar meus conhecimentos, adiquirindo cada vez mais pela experiência trabalhando como Desenvolvedor. 
+
+##
 
 - 📖 Atualmente estou estudando HTML, CSS, JS, PHP e PYTHON em minha faculdade
 - 👯 Procuro colaborar com projetos Front-end
