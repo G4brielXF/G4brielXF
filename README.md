@@ -1,6 +1,6 @@
 ## Hi there! Prazer ...
-  Me chamo Gabriel Xavier, tenho 19 anos e sou do Rio de Janeiro. Sou estudante de Ciências da Computação na Estácio. Sou um profissional autodidata e procuro me aprimorar nas linguagens de programação a fim de contribuir com êficiencia cada projeto proposto gerando satsifação para meus clientes e líderes.
-  Desde pequeno meu pai me ensinou o básico relacionado à informatica, por conta disso, sempre estive fascinado por esta área. Já desenvolvi pequenos trabalhos propostos pela universidade utilizando linguagem C e HTML, e estou estudando mais linguagens para ampliar meu conhecimento, como o PYTHON , JAVA SCRIPT e PHP.
+  Me chamo Gabriel Xavier, tenho 19 anos e sou do Rio de Janeiro. Sou estudante de Ciências da Computação na Estácio. Sou um profissional autodidata e procuro me aprimorar nas linguagens de programação a fim de contribuir com êficiencia cada projeto proposto gerando satsifação para meus clientes e líderes.<br>
+ Desde pequeno meu pai me ensinou o básico relacionado à informatica, por conta disso, sempre estive fascinado por esta área. Já desenvolvi pequenos trabalhos propostos pela universidade utilizando linguagem C e HTML, e estou estudando mais linguagens para ampliar meu conhecimento, como o PYTHON , JAVA SCRIPT e PHP.<br>
   Neste momento estou a procura de desenvolver mais habilidades como DEV e ampliar meus conhecimentos, adiquirindo cada vez mais pela experiência trabalhando como Desenvolvedor. 
 
 ##
